@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4759
     wikipedia: http://en.wikipedia.org/wiki/Archibald_Sayce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25080#Babylonians-and-Assyrians-Life-and-Customs
 gutenberg_issued: '2008-04-16'
 gutenberg_type: Text
 identifiers:
